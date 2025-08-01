@@ -29,7 +29,7 @@ I am particularly focused on native Android development with **Kotlin** & **Jetp
 ### 1. [Lofigram: Your Calm Space](https://github.com/jarvis1704/lofigram-public)
 - **Status:** Completed 
 - **Description:** Lofigram is a serene and mindful Android app designed to help you relax, focus, and connect with others. It combines lofi music, Pomodoro timers, a global chat, and much more — all wrapped in a calm and minimal UI.
-- **Tech Stack:** **Kotlin, Jetpack Compose, Material 3, Firebase, Hilt, Coroutines & Flow, DataStore, Admob, Google Play Billing**
+- **Tech Stack:** **Kotlin, Jetpack Compose, Material 3, Firebase, ExoPlayer, Hilt, Coroutines & Flow, DataStore, Admob, Google Play Billing**
 
 ### 2. [Chattrix: Chat and Connect](https://github.com/jarvis1704/Chattrix)
 - **Status:** Completed
