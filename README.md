@@ -36,6 +36,11 @@ I am particularly focused on native Android development with **Kotlin** & **Jetp
 - **Description:** A modern, real-time chat application built with Jetpack Compose and Firebase for Android.
 - **Tech Stack:** **Kotlin, Jetpack Compose, Firebase, ViewModel, Datastore, LiveData**
 
+### 3. [Attendo: Self Attendance](https://github.com/jarvis1704/Attendo)
+- **Status:** Completed and Updated
+- **Description:** A self attendance app built with Material 3 expressive design language and ROOM for Android.
+- **Tech Stack:** **Kotlin, Jetpack Compose, ROOM, ViewModel, Datastore**
+
 ---
 
 ## 🌱 Professional Development & Learning
