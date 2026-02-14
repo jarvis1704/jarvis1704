@@ -12,9 +12,9 @@ I am particularly focused on native Android development with **Kotlin** & **Jetp
 
 ## 🛠️ My Tech Stack
 
-| Category                  | Technologies & Tools                                                                         |
+| Category                  | Technologies & Tools                                                                                         |
 | ------------------------- | -------------------------------------------------------------------------------------------- |
-| **Languages** | Kotlin, Java, Python, C                                                                                |
+| **Languages** | Kotlin, Java, Python, C                                                                      |
 | **Mobile Development** | Android SDK, Jetpack Compose, XML Views, Material Design, Hilt, Coroutines & Flow, Retrofit, Room |
 | **Build Tools** | Gradle (Kotlin DSL), Maven                                                                   |
 | **Databases** | Room, SQLite                                                                                 |
@@ -25,18 +25,22 @@ I am particularly focused on native Android development with **Kotlin** & **Jetp
 
 ## 🚀 Featured Projects
 
+### 1. [SubTracker: AI Subscription Manager](https://github.com/jarvis1704/SubTracker)
+- **Status:** Active Development
+- **Description:** A privacy-first personal finance tool designed to track recurring subscriptions and forecast burn rate. Powered by **Google Gemini API** for smart optimization, it features a stunning **Material 3 Expressive UI** enriched with **interactive haptics** for a premium, tactile user experience. Built with an Offline-First architecture to ensure 100% data privacy.
+- **Tech Stack:** **Kotlin, Jetpack Compose, Gemini API, Room Database, Hilt, WorkManager, Material 3 Design**
 
-### 1. [Lofigram: Your Calm Space](https://github.com/jarvis1704/lofigram-public)
-- **Status:** Completed 
+### 2. [Lofigram: Your Calm Space](https://github.com/jarvis1704/lofigram-public)
+- **Status:** Completed 
 - **Description:** Lofigram is a serene and mindful Android app designed to help you relax, focus, and connect with others. It combines lofi music, Pomodoro timers, a global chat, and much more — all wrapped in a calm and minimal UI.
 - **Tech Stack:** **Kotlin, Jetpack Compose, Material 3, Firebase, ExoPlayer, Hilt, Coroutines & Flow, DataStore, Admob, Google Play Billing**
 
-### 2. [Chattrix: Chat and Connect](https://github.com/jarvis1704/Chattrix)
+### 3. [Chattrix: Chat and Connect](https://github.com/jarvis1704/Chattrix)
 - **Status:** Completed
 - **Description:** A modern, real-time chat application built with Jetpack Compose and Firebase for Android.
 - **Tech Stack:** **Kotlin, Jetpack Compose, Firebase, ViewModel, Datastore, LiveData**
 
-### 3. [Attendo: Self Attendance](https://github.com/jarvis1704/Attendo)
+### 4. [Attendo: Self Attendance](https://github.com/jarvis1704/Attendo)
 - **Status:** Completed and Updated
 - **Description:** A self attendance app built with Material 3 expressive design language and ROOM for Android.
 - **Tech Stack:** **Kotlin, Jetpack Compose, ROOM, ViewModel, Datastore**
@@ -64,4 +68,3 @@ Beyond shipping features, I actively seek out opportunities to stay current with
 
 - **Email:** [dasbiprangshu@gmail.com](mailto:dasbiprangshu@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/biprangshu-das-34017427a](https://www.linkedin.com/in/biprangshu-das-34017427a/)
-
