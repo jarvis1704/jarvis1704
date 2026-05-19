@@ -24,17 +24,17 @@ I specialize in the modern Android toolchain, leveraging the best of the Kotlin 
 
 ## 🚀 Featured Projects
 
-### 1. [SpendWise: Personal Finance Tracker](https://github.com/jarvis1704)
+### 1. [SpendWise: Personal Finance Tracker](https://github.com/jarvis1704/SpendWise)
 - **Status:** Active Development (Mar 2026 - Present)
 - **Description:** A finance tracker engineered with a strict 3-layer Multi-Module Architecture and MVI-style StateFlow. It integrates Firebase AI (Gemini) for contextual spending insights and features an onboarding flow and a 100% offline setup.
 - **Tech Stack:** **Kotlin, Jetpack Compose, Material 3 Expressive, Vico Charts, Room, DataStore, Gemini API**
 
-### 2. [Shelf: Book Discovery & Tracking](https://github.com/jarvis1704)
+### 2. [Shelf: Book Discovery & Tracking](https://github.com/jarvis1704/shelf)
 - **Status:** In Progress (Apr 2026 - Present)
 - **Description:** A Goodreads alternative focusing on seamless reading tracking and book discovery flows.
 - **Tech Stack:** **Kotlin, Jetpack Compose, Room, Retrofit, Hilt, Clean Architecture**
 
-### 3. [Guardian Saathi: Personal Safety Companion](https://github.com/jarvis1704)
+### 3. [Guardian Saathi: Personal Safety Companion](https://github.com/jarvis1704/Guardian-Sathi)
 - **Status:** Completed (Aug 2024 - Apr 2026)
 - **Description:** A comprehensive eldercare and full-stack safety app localized for 22 Indian languages. Features include accelerometer-based fall detection, Gemini-powered Scam Alerts, and GeoFencing. 
 - **Tech Stack:** **Node.js, Firebase Cloud Functions, Hilt DI, Retrofit, Jetpack Navigation Compose, FCM**
