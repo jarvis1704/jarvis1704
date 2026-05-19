@@ -6,54 +6,59 @@ Hi there! I'm an **Android Developer** from Guwahati, Assam, with a passion for 
 
 ## 🧑‍💻 About Me
 
-As an experienced **Android Developer**, I am driven by the challenge of solving complex problems and building user-centric mobile experiences. I specialize in the modern Android toolchain, leveraging the best of the Kotlin ecosystem to create robust and scalable apps.
+As an experienced Android Developer, I am driven by the challenge of solving complex problems and building user-centric mobile experiences. While I am officially pursuing a B.Tech in Electronics and Communications Engineering (expected 2027), my true dedication lies in Computer Science and crafting scalable software. 
 
-I am particularly focused on native Android development with **Kotlin** & **Jetpack Compose**, and I'm always exploring best practices in software architecture, performance optimization, and testing.
+I specialize in the modern Android toolchain, leveraging the best of the Kotlin ecosystem to create robust apps. I focus on building AI-powered fintech and safety applications using Clean Architecture, offline-first patterns, and the Gemini API. I currently have 4 production apps on Google Play.
 
 ## 🛠️ My Tech Stack
 
-| Category                  | Technologies & Tools                                                                                         |
-| ------------------------- | -------------------------------------------------------------------------------------------- |
-| **Languages** | Kotlin, Java, Python, C                                                                      |
-| **Mobile Development** | Android SDK, Jetpack Compose, XML Views, Material Design, Hilt, Coroutines & Flow, Retrofit, Room |
-| **Build Tools** | Gradle (Kotlin DSL), Maven                                                                   |
-| **Databases** | Room, SQLite                                                                                 |
-| **Tools & Platforms** | Git, GitHub, Android Studio, Firebase                                                        |
-| **Areas of Interest** | MVI/MVVM Architecture, App Performance, Offline-First Apps, CI/CD for Mobile                 |
+| Category                  | Technologies & Tools                                                                                                                                     |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | Kotlin, Java, Python, SQL                                                                                                                     |
+| **Mobile Development** | Jetpack Compose, Material 3 Expressive, Coroutines, Flow, Dagger Hilt, Retrofit, WorkManager, ExoPlayer, AdMob, Vico, Coil, Navigation 2 & 3  |
+| **Architecture** | Clean Architecture, MVVM-MVI, Multi-Module Architecture                                                                                       |
+| **Databases** | Room, Firebase (Firestore, Realtime DB)                                                                                                   |
+| **AI, Build & Tools** | Gemini API, Claude Code, Gemini CLI, OpenCode, Firebase Cloud Functions, FCM, Git, GitHub, Android Studio, Gradle (Kotlin DSL), Linux (Arch)  |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [SubTracker: AI Subscription Manager](https://github.com/jarvis1704/SubTracker)
-- **Status:** Active Development
-- **Description:** A privacy-first personal finance tool designed to track recurring subscriptions and forecast burn rate. Powered by **Google Gemini API** for smart optimization, it features a stunning **Material 3 Expressive UI** enriched with **interactive haptics** for a premium, tactile user experience. Built with an Offline-First architecture to ensure 100% data privacy.
-- **Tech Stack:** **Kotlin, Jetpack Compose, Gemini API, Room Database, Hilt, WorkManager, Material 3 Design**
+### 1. [SpendWise: Personal Finance Tracker](https://github.com/jarvis1704)
+- **Status:** Active Development (Mar 2026 - Present)
+- **Description:** A finance tracker engineered with a strict 3-layer Multi-Module Architecture and MVI-style StateFlow. It integrates Firebase AI (Gemini) for contextual spending insights and features an onboarding flow and a 100% offline setup.
+- **Tech Stack:** **Kotlin, Jetpack Compose, Material 3 Expressive, Vico Charts, Room, DataStore, Gemini API**
 
-### 2. [Lofigram: Your Calm Space](https://github.com/jarvis1704/lofigram-public)
-- **Status:** Completed 
-- **Description:** Lofigram is a serene and mindful Android app designed to help you relax, focus, and connect with others. It combines lofi music, Pomodoro timers, a global chat, and much more — all wrapped in a calm and minimal UI.
-- **Tech Stack:** **Kotlin, Jetpack Compose, Material 3, Firebase, ExoPlayer, Hilt, Coroutines & Flow, DataStore, Admob, Google Play Billing**
+### 2. [Shelf: Book Discovery & Tracking](https://github.com/jarvis1704)
+- **Status:** In Progress (Apr 2026 - Present)
+- **Description:** A Goodreads alternative focusing on seamless reading tracking and book discovery flows.
+- **Tech Stack:** **Kotlin, Jetpack Compose, Room, Retrofit, Hilt, Clean Architecture**
 
-### 3. [Chattrix: Chat and Connect](https://github.com/jarvis1704/Chattrix)
-- **Status:** Completed
-- **Description:** A modern, real-time chat application built with Jetpack Compose and Firebase for Android.
-- **Tech Stack:** **Kotlin, Jetpack Compose, Firebase, ViewModel, Datastore, LiveData**
+### 3. [Guardian Saathi: Personal Safety Companion](https://github.com/jarvis1704)
+- **Status:** Completed (Aug 2024 - Apr 2026)
+- **Description:** A comprehensive eldercare and full-stack safety app localized for 22 Indian languages. Features include accelerometer-based fall detection, Gemini-powered Scam Alerts, and GeoFencing. 
+- **Tech Stack:** **Node.js, Firebase Cloud Functions, Hilt DI, Retrofit, Jetpack Navigation Compose, FCM**
 
-### 4. [Attendo: Self Attendance](https://github.com/jarvis1704/Attendo)
-- **Status:** Completed and Updated
-- **Description:** A self attendance app built with Material 3 expressive design language and ROOM for Android.
-- **Tech Stack:** **Kotlin, Jetpack Compose, ROOM, ViewModel, Datastore**
+### 4. [SubTracker: AI Subscription Manager](https://github.com/jarvis1704/SubTracker)
+- **Status:** Completed (Dec 2025 - Jan 2026)
+- **Description:** A privacy-first personal finance tool with three distinct Gemini AI features to detect redundant subscriptions, predict burn-rate, and alert on regional prices. Built with an offline-first Room architecture.
+- **Tech Stack:** **Kotlin, Jetpack Compose, Gemini API, Room Database, WorkManager, Material 3, Vico**
+
+### 5. [Lofigram: Productivity & Music Streaming](https://github.com/jarvis1704/lofigram-public)
+- **Status:** Completed (Jul 2025 - Sep 2025)
+- **Description:** A productivity app offering gapless lo-fi audio streaming, Pomodoro timers, and real-time live chat.
+- **Tech Stack:** **Kotlin, Jetpack Compose, ExoPlayer, Firebase Realtime DB, AdMob, Google Play Billing**
 
 ---
 
-## 🌱 Professional Development & Learning
+## 🌱 Professional Development & Open Source
 
-Beyond shipping features, I actively seek out opportunities to stay current with the fast-evolving Android landscape.
+Beyond shipping independent features, I actively collaborate and seek out opportunities to grow in the Android landscape:
 
-- **Continuous Learning:** I regularly follow updates from the official Android Developers blog, attend virtual events like the **Android Dev Summit**, and engage with the community to learn about the latest trends in mobile development. My current focus is on mastering advanced Jetpack Compose UI patterns and backend technologies for mobile.
+- **Open Source Contributions:** Contributed to a 500+ contributor Kotlin e-commerce app (ShopSmart) during GirlScript Summer of Code. Implemented a production-ready Login Screen with full form validation and Material 3 styling.
+- **Community Mentorship:** Mentored junior students in Kotlin, Compose, and MVVM architecture as a Core Team Member (Android) for GDSC Tezpur University.
 
-⚡ **Fun Fact:** I'm a big fan of Eminem.
+⚡ **Fun Fact:** I'm a big fan of Eminem, and I run a custom Arch Linux setup (Omarchy) for all my development work!
 
 ---
 
@@ -67,4 +72,4 @@ Beyond shipping features, I actively seek out opportunities to stay current with
 ## 📫 How to Reach Me
 
 - **Email:** [dasbiprangshu@gmail.com](mailto:dasbiprangshu@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/biprangshu-das-34017427a](https://www.linkedin.com/in/biprangshu-das-34017427a/)
+- **LinkedIn:** [linkedin.com/in/biprangshu-das](https://linkedin.com/in/biprangshu-das)
